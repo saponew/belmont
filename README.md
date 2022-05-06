@@ -9,21 +9,89 @@ Defined:
 - Instrumental components of a sustainable and efficient Web3 infrastructure
 
 
-Categories:
+Products:
 
-Disclaimer - There is some cross-over between some categories, and tokens may fall under multiple categories.  For the sake of analysis, we defined the categories ahead of time.
+- Private Web3 All Industry Index Fund
+- Private Web3 All Industry Group Index Fund
+- Private Web3 Tunnel Vision Sector Fund
 
 
-- Smart Contract Platforms
-- Metaverse Token
-- Multi-Chain Solutions
-- Decentralized Storage + Data Retrieval
-- Decentralized Finance Platform
-- Internet of Things (IoT)
-- Distributed Supercomputing
-- Oracles
-- Decentralized Exchanges
-- NFT Gaming
+### Private Web3 All Industry Index Fund
+IoT
+Oracle
+Private Computing
+Shared Network
+Shared Storage
+BaaS (Other)
+Payments
+Supply Chain / Commerce
+Private
+Transparent (Other)
+Transparent CeFi Currency
+Transparent DeFi Currency
+Asset Management
+Atomic Swaps
+Credit Platform (Other)
+Lending / Borrowing
+Active DAO
+DAO (Other)
+DAO Builder
+Derivatives
+AMM
+CLOB
+Exchanges (Other)
+Insurance
+Yield
+Art
+Broadcast
+Social
+Media (Other)
+Gaming
+VR Real Estate
+Metaverse (Other)
+Multi-Chain / Parachain
+Single Chain
+Digitization
+
+
+
+### Private Web3 All Industry Group Index Fund
+
+
+IoT
+Oracle
+Private Computing
+Shared Network
+Shared Storage
+BaaS
+Private
+Transparent
+Asset Management
+Atomic Swaps
+Credit Platform
+DAO
+Derivatives
+Exchanges
+Insurance
+Yield
+Art
+Media
+Metaverse
+Multi-Chain / Parachain
+Single Chain
+Digitization
+
+
+### Private Web3 Tunnel Vision Sector Fund
+
+
+Computing
+Currency
+DeFi
+Culture & Entertainment
+Smart Contract Platform
+Digitization
+
 
 
 Note: The goal is not necessarily to study the first or “best”, but projects that we predict will front-run the development of Web3.
@@ -42,6 +110,7 @@ Process:
 - test hypothesis 
 - make conclusions 
 - decide to launch and market the product or make adjustments
+
 
 
 
