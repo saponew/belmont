@@ -5,7 +5,7 @@ Identify the pick and shovel projects in each of 10 defined categories of Web3 c
 
 Defined: 
 - Pick and shovel plays are investment strategies that own underlying technology (assets) needed to produce a good or service instead of a final output
-- Borrow this definition, the final outouts are not the tokens themselves, but the applications/use-cases 
+- Borrowing this definition, the s are not the tokens themselves, but the applications/use-cases 
 - Instrumental components of a sustainable and efficient Web3 infrastructure
 
 
