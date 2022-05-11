@@ -17,80 +17,80 @@ Products:
 
 
 ### Private Web3 All Industry Index Fund
-IoT
-Oracle
-Private Computing
-Shared Network
-Shared Storage
-BaaS (Other)
-Payments
-Supply Chain / Commerce
-Private
-Transparent (Other)
-Transparent CeFi Currency
-Transparent DeFi Currency
-Asset Management
-Atomic Swaps
-Credit Platform (Other)
-Lending / Borrowing
-Active DAO
-DAO (Other)
-DAO Builder
-Derivatives
-AMM
-CLOB
-Exchanges (Other)
-Insurance
-Yield
-Art
-Broadcast
-Social
-Media (Other)
-Gaming
-VR Real Estate
-Metaverse (Other)
-Multi-Chain / Parachain
-Single Chain
-Digitization
+- IoT
+- Oracle
+- Private Computing
+- Shared Network
+- Shared Storage
+- BaaS (Other)
+- Payments
+- Supply Chain / Commerce
+- Private
+- Transparent (Other)
+- Transparent CeFi Currency
+- Transparent DeFi Currency
+- Asset Management
+- Atomic Swaps
+- Credit Platform (Other)
+- Lending / Borrowing
+- Active DAO
+- DAO (Other)
+- DAO Builder
+- Derivatives
+- AMM
+- CLOB
+- Exchanges (Other)
+- Insurance
+- Yield
+- Art
+- Broadcast
+- Social
+- Media (Other)
+- Gaming
+- VR Real Estate
+- Metaverse (Other)
+- Multi-Chain / Parachain
+- Single Chain
+- Digitization
 
 
 
 ### Private Web3 All Industry Group Index Fund
 
 
-IoT
-Oracle
-Private Computing
-Shared Network
-Shared Storage
-BaaS
-Private
-Transparent
-Asset Management
-Atomic Swaps
-Credit Platform
-DAO
-Derivatives
-Exchanges
-Insurance
-Yield
-Art
-Media
-Metaverse
-Multi-Chain / Parachain
-Single Chain
-Digitization
+- IoT
+- Oracle
+- Private Computing
+- Shared Network
+- Shared Storage
+- BaaS
+- Private
+- Transparent
+- Asset Management
+- Atomic Swaps
+- Credit Platform
+- DAO
+- Derivatives
+- Exchanges
+- Insurance
+- Yield
+- Art
+- Media
+- Metaverse
+- Multi-Chain / Parachain
+- Single Chain
+- Digitization
 
 
 ### Private Web3 Tunnel Vision Sector Fund
 
 
-Computing
-Currency
-DeFi
-Culture & Entertainment
-Smart Contract Platform
-Digitization
+- Computing
+- Currency
+- DeFi
+- Culture & Entertainment
+- Smart Contract Platform
+- Digitization
 
 
 
