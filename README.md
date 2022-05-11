@@ -1,7 +1,7 @@
 # Picks and Shovels
 
 Objective:
-Identify the pick and shovel projects in each of 10 defined categories of Web3 cryptocurrency tokens (and coins).  
+Identify the pick and shovel projects in each of defined categories of Web3 cryptocurrency tokens (and coins).  
 
 Defined: 
 - Pick and shovel plays are investment strategies that own underlying technology (assets) needed to produce a good or service instead of a final output
@@ -11,9 +11,9 @@ Defined:
 
 Products:
 
-- Private Web3 All Industry Index Fund
-- Private Web3 All Industry Group Index Fund
-- Private Web3 Tunnel Vision Sector Fund
+- Private Web3 All Industry Index Fund (35 assets)
+- Private Web3 All Industry Group Index Fund (22 assets)
+- Private Web3 Tunnel Vision Sector Fund (6 assets)
 
 
 ### Private Web3 All Industry Index Fund
