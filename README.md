@@ -104,7 +104,7 @@ Objective: create hybrid private fund of public companies building Web3 as well 
 
 Process: 
 
-- understand blockchain narrative
+- understand blockchain and Web3 narrative
 - identify valuable aspects
 - develop a hypothesis
 - test hypothesis 
